@@ -1,0 +1,10 @@
+{
+  "name": "purescript-refractor-coproduct",
+  "private": true,
+  "scripts": {
+    "build": "rm -rf output && pulp build",
+    "build:watch": "pulp -w build",
+    "docs": "rm -rf docs && pulp docs"
+  },
+  "files": []
+}

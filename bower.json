@@ -1,0 +1,8 @@
+{
+  "name": "purescript-refractor-coproduct",
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!src/**/*"
+  ]
+}
